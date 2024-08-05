@@ -2,7 +2,7 @@ Every theme I have made (that I can remember) and shared with the gaming communi
 EmulationStation, Attract Mode, Batocera/RetroBat, Handhelds.
 Towards the bottom are links to tons of wheel art and media I have made as well.
 
----------- URL links are in the text document ----------
+---------- URL links are in the 'HurstysCreationList.txt' text document ----------
 
 I am not really making or updating themes any more, but I am open to making 'small' changes.
 Making themes became an obsession and I enjoy really creating stuff.
