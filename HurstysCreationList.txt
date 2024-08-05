@@ -12,6 +12,8 @@ https://youtu.be/1w1QQtXUtX0?si=2nXFIMAbySfcUcM7
 
 This is my YouTube Channel (but I am not really making videos these days): https://www.youtube.com/channel/UCVvbtFTiXzUAc_DXsmdjuDQ
 
+-----------------------------------------------------------------------------------
+
 Mini Sweet Themes - EmulationStation 16:9 - 240 Themes
 https://github.com/RetroHursty69/es-theme-300Sweet
 https://github.com/RetroHursty69/es-theme-AdventureTimeSweet
@@ -254,6 +256,7 @@ https://github.com/RetroHursty69/es-theme-YuGiOhSweet
 https://github.com/RetroHursty69/es-theme-ZeldaSweet
 https://github.com/RetroHursty69/es-theme-ZombiesAteSweet
 
+-----------------------------------------------------------------------------------
 
 Cool Themes - EmulationStation 16:9 - 121 Themes
 https://github.com/RetroHursty69/es-theme-AladdinCool
@@ -378,6 +381,7 @@ https://github.com/RetroHursty69/es-theme-YoshiCool
 https://github.com/RetroHursty69/es-theme-YuGiOhCool
 https://github.com/RetroHursty69/es-theme-ZeldaCool
 
+-----------------------------------------------------------------------------------
 
 Spin Themes - EmulationStation 16:9 - 172 Themes
 https://github.com/RetroHursty69/es-theme-AdventureTimeSpin
@@ -553,6 +557,7 @@ https://github.com/RetroHursty69/es-theme-YoshiSpin
 https://github.com/RetroHursty69/es-theme-ZeldaSpin
 https://github.com/RetroHursty69/es-theme-ZeroSuitSpin
 
+-----------------------------------------------------------------------------------
 
 Miscellaneous Themes - EmulationStation 16:9 - 120 Themes
 https://github.com/RetroHursty69/es-theme-2DAI4_Ratio_16-9
@@ -676,6 +681,7 @@ https://github.com/RetroHursty69/es-theme-Vinyl-Hits
 https://github.com/RetroHursty69/es-theme-whiteslide
 https://github.com/RetroHursty69/es-theme-whitewood
 
+-----------------------------------------------------------------------------------
 
 Miscellaneous Themes - EmulationStation 5:4 - 15 Themes
 https://github.com/RetroHursty69/es-theme-PopCom5x4
@@ -694,6 +700,7 @@ https://github.com/RetroHursty69/es-theme-Vertical-Limit-A1UP-1024x1280
 https://github.com/RetroHursty69/es-theme-MK54
 https://github.com/RetroHursty69/es-theme-BoomBoxStreet4x3
 
+-----------------------------------------------------------------------------------
 
 Toggle Boxy Themes - EmulationStation 16:9 - 200 Themes
 https://github.com/RetroHursty69/es-theme-TB_AddamsFamily
@@ -897,11 +904,13 @@ https://github.com/RetroHursty69/es-theme-TB_Yoda
 https://github.com/RetroHursty69/es-theme-TB_Zelda
 https://github.com/RetroHursty69/es-theme-TB_Zool
 
+-----------------------------------------------------------------------------------
 
 Vertical Themes - EmulationStation 9:16 - 2 Themes
 https://github.com/RetroHursty69/es-theme-vertical_arcade
 https://github.com/RetroHursty69/es-theme-vertical_limit_verticaltheme
 
+-----------------------------------------------------------------------------------
 
 Chromey Blue Themes - EmulationStation 16:9 - 133 Themes
 https://github.com/RetroHursty69/es-theme-1943Blue
@@ -1038,6 +1047,7 @@ https://github.com/RetroHursty69/es-theme-XMenBlue
 https://github.com/RetroHursty69/es-theme-YoshiBlue
 https://github.com/RetroHursty69/es-theme-ZeldaBlue
 
+-----------------------------------------------------------------------------------
 
 Chromey Green Themes - EmulationStation 16:9 - 133 Themes
 https://github.com/RetroHursty69/es-theme-1943Green
@@ -1174,6 +1184,7 @@ https://github.com/RetroHursty69/es-theme-XMenGreen
 https://github.com/RetroHursty69/es-theme-YoshiGreen
 https://github.com/RetroHursty69/es-theme-ZeldaGreen
 
+-----------------------------------------------------------------------------------
 
 Chromey Neon Themes - EmulationStation 16:9 - 134 Themes
 https://github.com/RetroHursty69/es-theme-1943Neon
@@ -1311,6 +1322,7 @@ https://github.com/RetroHursty69/es-theme-XMenNeon
 https://github.com/RetroHursty69/es-theme-YoshiNeon
 https://github.com/RetroHursty69/es-theme-ZeldaNeon
 
+-----------------------------------------------------------------------------------
 
 Handheld Themes - EmulationStation 3:2 and 4:3 - 12 Themes
 https://github.com/RetroHursty69/es-theme-AIGEN_PLUS_4x3
@@ -1326,6 +1338,7 @@ https://github.com/RetroHursty69/es-theme-SodaGameHat
 https://github.com/RetroHursty69/es-theme-SublimeGameHat
 https://github.com/RetroHursty69/es-theme-SweetBlueGameHat
 
+-----------------------------------------------------------------------------------
 
 Slick Themes - EmulationStation 16:9 - 30 Themes
 https://github.com/RetroHursty69/es-theme-Slick_Blue
@@ -1359,6 +1372,7 @@ https://github.com/RetroHursty69/es-theme-Slick_Swingin
 https://github.com/RetroHursty69/es-theme-Slick_Swish
 https://github.com/RetroHursty69/es-theme-Slick_Tech
 
+-----------------------------------------------------------------------------------
 
 Hyper Themes - EmulationStation 16:9 - 177 Themes
 https://github.com/RetroHursty69/es-theme-HyperAladdin
@@ -1539,7 +1553,7 @@ https://github.com/RetroHursty69/es-theme-HyperXMen7
 https://github.com/RetroHursty69/es-theme-HyperXMen8
 https://github.com/RetroHursty69/es-theme-HyperXMen9
 		
-		
+-----------------------------------------------------------------------------------		
 
 GPi Case Handheld Themes - EmulationStation 4:3 - 37 Themes
 https://github.com/RetroHursty69/es-theme-GPi_Bluray
@@ -1580,6 +1594,7 @@ https://github.com/RetroHursty69/es-theme-GPi_SagatCapcom
 https://github.com/RetroHursty69/es-theme-GPi_THawkCapcom
 https://github.com/RetroHursty69/es-theme-GPi_ZangiefCapcom	
 
+-----------------------------------------------------------------------------------
 
 Comic Themes - EmulationStation 16:9 - 11 Themes
 https://github.com/RetroHursty69/es-theme-ComicMK
@@ -1594,6 +1609,7 @@ https://github.com/RetroHursty69/es-theme-ComicPACMAN
 https://github.com/RetroHursty69/es-theme-ComicCRASHB
 https://github.com/RetroHursty69/es-theme-ComicCOVERS		
 
+-----------------------------------------------------------------------------------
 
 Adios Themes - EmulationStation 16:9 - 99 Themes
 https://github.com/RetroHursty69/es-theme-Adios_007
@@ -1696,6 +1712,7 @@ https://github.com/RetroHursty69/es-theme-Adios_Yoda
 https://github.com/RetroHursty69/es-theme-Adios_Yoshi
 https://github.com/RetroHursty69/es-theme-Adios_Zelda			
 
+-----------------------------------------------------------------------------------
 
 Slanty Themes - EmulationStation 16:9 - 76 Themes
 https://github.com/RetroHursty69/es-theme-Slanty_Agent47
@@ -1776,6 +1793,7 @@ https://github.com/RetroHursty69/es-theme-Slanty_XMen
 https://github.com/RetroHursty69/es-theme-Slanty_Yoshi
 https://github.com/RetroHursty69/es-theme-Slanty_Zelda			
 
+-----------------------------------------------------------------------------------
 
 Smooth Uno Themes - EmulationStation 16:9 - 153 Themes
 https://github.com/RetroHursty69/es-theme-007Uno
@@ -1932,6 +1950,8 @@ https://github.com/RetroHursty69/es-theme-YoshiUno
 https://github.com/RetroHursty69/es-theme-Yu-Gi-OhUno
 https://github.com/RetroHursty69/es-theme-ZeldaUno
 
+-----------------------------------------------------------------------------------
+
 Smooth Duo Themes - EmulationStation 16:9 - 118 Themes
 https://github.com/RetroHursty69/es-theme-AceAttorneyDuo
 https://github.com/RetroHursty69/es-theme-AeroAcroBatDuo
@@ -2052,6 +2072,7 @@ https://github.com/RetroHursty69/es-theme-YoshiDuo
 https://github.com/RetroHursty69/es-theme-Yu-Gi-OhDuo
 https://github.com/RetroHursty69/es-theme-ZeldaDuo
 
+-----------------------------------------------------------------------------------
 
 Retrobat Themes - Batocera/Retrobat - 16:9 - 8 Themes
 https://github.com/RetroHursty69/RetroBat-ArcadeParadise
@@ -2063,6 +2084,7 @@ https://github.com/RetroHursty69/Retrobat-Crescendo
 https://github.com/RetroHursty69/Retrobat-HeyChromeyRB
 https://github.com/RetroHursty69/Retrobat-CosmicRiseRB
 
+-----------------------------------------------------------------------------------
 
 RGX35XX Themes - Batocera 4:3 - 10 Themes
 https://github.com/RetroHursty69/Batocera-Bright-Room
@@ -2077,6 +2099,7 @@ https://github.com/RetroHursty69/Batocera-RG35XXH-Slider
 https://github.com/RetroHursty69/Batocera-RG35XXH-Slippy
 https://github.com/RetroHursty69/Batocera-RG35XXH-Triplets
 
+-----------------------------------------------------------------------------------
 
 Attract Mode Themes - 16:9
 https://github.com/RetroHursty69/AttractMode-UnifiedSnazzy
@@ -2094,6 +2117,7 @@ https://github.com/RetroHursty69/AttractMode-Back2Basics169
 https://github.com/RetroHursty69/AttractMode-Back2Basics1000
 https://github.com/RetroHursty69/AttractMode-Back2BasicsPinball
 
+-----------------------------------------------------------------------------------
 
 Hurstys Artwork Media
 https://github.com/RetroHursty69/HurstyCreations-AICards
@@ -2149,3 +2173,5 @@ https://github.com/RetroHursty69/HurstyCreations-ToggleWheels
 https://github.com/RetroHursty69/HurstyCreations-TranslucentWheels
 https://github.com/RetroHursty69/HurstyCreations-TriangleWheels
 https://github.com/RetroHursty69/HurstyCreations-VinylWheels
+
+-----------------------------------------------------------------------------------
