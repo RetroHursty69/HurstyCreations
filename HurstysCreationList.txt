@@ -2086,10 +2086,11 @@ https://github.com/RetroHursty69/Retrobat-CosmicRiseRB
 
 -----------------------------------------------------------------------------------
 
-RGX35XX Themes - Batocera 4:3 - 10 Themes
+RG35XX H Themes - Batocera 4:3 - 10 Themes
 https://github.com/RetroHursty69/Batocera-Bright-Room
 https://github.com/RetroHursty69/Batocera-RG35XXH-ChromeNess
 https://github.com/RetroHursty69/Batocera-RG35XXH-Club54
+https://github.com/RetroHursty69/Batocera-RG35XXH-Comicool
 https://github.com/RetroHursty69/Batocera-RG35XXH-Comslide
 https://github.com/RetroHursty69/Batocera-RG35XXH-CurvyDisc
 https://github.com/RetroHursty69/Batocera-RG35XXH-JohnWicky
@@ -2098,6 +2099,7 @@ https://github.com/RetroHursty69/Batocera-RG35XXH-Pastelize
 https://github.com/RetroHursty69/Batocera-RG35XXH-Slider
 https://github.com/RetroHursty69/Batocera-RG35XXH-Slippy
 https://github.com/RetroHursty69/Batocera-RG35XXH-Triplets
+https://github.com/RetroHursty69/Batocera-RG35XXH-Twilght
 
 -----------------------------------------------------------------------------------
 
