@@ -2076,6 +2076,7 @@ https://github.com/RetroHursty69/es-theme-ZeldaDuo
 
 Retrobat Themes - Batocera/Retrobat - 16:9 - 8 Themes
 https://github.com/RetroHursty69/RetroBat-ArcadeParadise
+https://github.com/RetroHursty69/Batocera-Bright-Room
 https://github.com/RetroHursty69/RetroBat-ComicPop
 https://github.com/RetroHursty69/RetroBat-Monochrome
 https://github.com/RetroHursty69/Retrobat-UniflyeredRB
@@ -2086,8 +2087,7 @@ https://github.com/RetroHursty69/Retrobat-CosmicRiseRB
 
 -----------------------------------------------------------------------------------
 
-RG35XX H Themes - Batocera 4:3 - 10 Themes
-https://github.com/RetroHursty69/Batocera-Bright-Room
+RG35XX H Themes - Batocera 4:3 - 12 Themes
 https://github.com/RetroHursty69/Batocera-RG35XXH-ChromeNess
 https://github.com/RetroHursty69/Batocera-RG35XXH-Club54
 https://github.com/RetroHursty69/Batocera-RG35XXH-Comicool
