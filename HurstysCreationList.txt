@@ -2103,6 +2103,12 @@ https://github.com/RetroHursty69/Batocera-RG35XXH-Twilght
 
 -----------------------------------------------------------------------------------
 
+RG40XX H Themes - Batocera 4:3 - 2 Themes
+https://github.com/RetroHursty69/Batocera-RG40XXH-Collecticon
+https://github.com/RetroHursty69/Batocera-RG40XXH-Comicool
+
+-----------------------------------------------------------------------------------
+
 Attract Mode Themes - 16:9
 https://github.com/RetroHursty69/AttractMode-UnifiedSnazzy
 https://github.com/RetroHursty69/AttractMode-RainbowSystem
