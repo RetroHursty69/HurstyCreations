@@ -2103,11 +2103,12 @@ https://github.com/RetroHursty69/Batocera-RG35XXH-Twilght
 
 -----------------------------------------------------------------------------------
 
-RG40XX H Themes - Batocera 4:3 - 4 Themes
+RG40XX H Themes - Batocera 4:3 - 5 Themes
 https://github.com/RetroHursty69/Batocera-RG40XXH-Collecticon
 https://github.com/RetroHursty69/Batocera-RG40XXH-Comicool
+https://github.com/RetroHursty69/Batocera-RG40XXH-Dreambot
 https://github.com/RetroHursty69/Batocera-RG40XXH-Slanty
-https://github.com/RetroHursty69/Batocera-RG40XXH-Comicool
+https://github.com/RetroHursty69/Batocera-RG40XXH-TRI-SWEET
 
 -----------------------------------------------------------------------------------
 
