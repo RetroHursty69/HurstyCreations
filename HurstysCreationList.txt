@@ -2108,7 +2108,7 @@ https://github.com/RetroHursty69/Batocera-RG40XXH-Collecticon
 https://github.com/RetroHursty69/Batocera-RG40XXH-Comicool
 https://github.com/RetroHursty69/Batocera-RG40XXH-Dreambot
 https://github.com/RetroHursty69/Batocera-RG40XXH-MiniRoom
-https://github.com/RetroHursty69/Batocera-RG40XXH-MotoMove
+https://github.com/RetroHursty69/Batocera-RG40XXH-MotoMover
 https://github.com/RetroHursty69/Batocera-RG40XXH-Slanty
 https://github.com/RetroHursty69/Batocera-RG40XXH-TRI-SWEET
 
