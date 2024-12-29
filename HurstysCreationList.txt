@@ -2099,7 +2099,7 @@ https://github.com/RetroHursty69/Batocera-RG35XXH-Pastelize
 https://github.com/RetroHursty69/Batocera-RG35XXH-Slider
 https://github.com/RetroHursty69/Batocera-RG35XXH-Slippy
 https://github.com/RetroHursty69/Batocera-RG35XXH-Triplets
-https://github.com/RetroHursty69/Batocera-RG35XXH-Twilght
+https://github.com/RetroHursty69/Batocera-RG35XXH-Twilight
 
 -----------------------------------------------------------------------------------
 
